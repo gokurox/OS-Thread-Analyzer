@@ -1,0 +1,3630 @@
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 1
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 2.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 2.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 2.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 2.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 2.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 2.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 2.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 2.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 2.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 2.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 2.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 2.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 2.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 1.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 2.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 2.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 2.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 2.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 2.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 2.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 2.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 2.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 2.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 2.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 2.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 2.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 2.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 1.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 2.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 2.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 2.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 2.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 2.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 2.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 2.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 2.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 2.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 2.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 2.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 2.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 2.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 2.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 1.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 2.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 2.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 2.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 2.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 2.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 2.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 2.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 1
+AVERAGE TIME TAKEN: 1.940000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 2
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 549125290
+
+Time Taken for pass 1 = 6.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 568251774
+
+Time Taken for pass 2 = 6.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 507668764
+
+Time Taken for pass 3 = 6.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 471655523
+
+Time Taken for pass 4 = 6.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 553241578
+
+Time Taken for pass 5 = 6.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 647309498
+
+Time Taken for pass 6 = 6.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 531271258
+
+Time Taken for pass 7 = 6.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 503232285
+
+Time Taken for pass 8 = 6.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 514199485
+
+Time Taken for pass 9 = 7.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 590227973
+
+Time Taken for pass 10 = 5.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 507752419
+
+Time Taken for pass 11 = 6.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 592552623
+
+Time Taken for pass 12 = 7.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 544763295
+
+Time Taken for pass 13 = 6.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 587925420
+
+Time Taken for pass 14 = 6.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 505251985
+
+Time Taken for pass 15 = 6.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 500439744
+
+Time Taken for pass 16 = 6.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 553122452
+
+Time Taken for pass 17 = 6.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 571680370
+
+Time Taken for pass 18 = 6.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 513959324
+
+Time Taken for pass 19 = 6.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 541264850
+
+Time Taken for pass 20 = 5.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 560268871
+
+Time Taken for pass 21 = 7.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 541249325
+
+Time Taken for pass 22 = 5.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 506909003
+
+Time Taken for pass 23 = 7.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 537096621
+
+Time Taken for pass 24 = 6.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 663054564
+
+Time Taken for pass 25 = 5.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 560625877
+
+Time Taken for pass 26 = 6.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 524014052
+
+Time Taken for pass 27 = 6.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 511864707
+
+Time Taken for pass 28 = 6.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 518022715
+
+Time Taken for pass 29 = 6.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 511729071
+
+Time Taken for pass 30 = 7.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 544262550
+
+Time Taken for pass 31 = 5.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 528927186
+
+Time Taken for pass 32 = 7.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 531240246
+
+Time Taken for pass 33 = 6.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 541811107
+
+Time Taken for pass 34 = 6.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 527386894
+
+Time Taken for pass 35 = 6.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 524177609
+
+Time Taken for pass 36 = 6.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 557369759
+
+Time Taken for pass 37 = 6.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 531600709
+
+Time Taken for pass 38 = 7.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 528721386
+
+Time Taken for pass 39 = 6.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 524866296
+
+Time Taken for pass 40 = 6.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 532119759
+
+Time Taken for pass 41 = 6.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 521933276
+
+Time Taken for pass 42 = 7.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 512642147
+
+Time Taken for pass 43 = 6.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 583383882
+
+Time Taken for pass 44 = 5.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 524295367
+
+Time Taken for pass 45 = 6.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 513470993
+
+Time Taken for pass 46 = 7.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 532652126
+
+Time Taken for pass 47 = 6.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 522361401
+
+Time Taken for pass 48 = 6.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 518337309
+
+Time Taken for pass 49 = 6.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 548693956
+
+Time Taken for pass 50 = 6.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 2
+AVERAGE TIME TAKEN: 6.060000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 3
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 347696457
+
+Time Taken for pass 1 = 7.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 351235752
+
+Time Taken for pass 2 = 6.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 341427059
+
+Time Taken for pass 3 = 7.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 352126805
+
+Time Taken for pass 4 = 6.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 345780870
+
+Time Taken for pass 5 = 6.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 347871696
+
+Time Taken for pass 6 = 7.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 343112245
+
+Time Taken for pass 7 = 6.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 340309389
+
+Time Taken for pass 8 = 7.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 350568077
+
+Time Taken for pass 9 = 7.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 349460135
+
+Time Taken for pass 10 = 7.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 351959457
+
+Time Taken for pass 11 = 6.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 356524500
+
+Time Taken for pass 12 = 6.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 339672206
+
+Time Taken for pass 13 = 7.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 365696704
+
+Time Taken for pass 14 = 6.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 362252600
+
+Time Taken for pass 15 = 7.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 342063208
+
+Time Taken for pass 16 = 6.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 347284821
+
+Time Taken for pass 17 = 6.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 342406828
+
+Time Taken for pass 18 = 7.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 347430198
+
+Time Taken for pass 19 = 7.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 347798626
+
+Time Taken for pass 20 = 6.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 345731767
+
+Time Taken for pass 21 = 6.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 349680371
+
+Time Taken for pass 22 = 7.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 353101078
+
+Time Taken for pass 23 = 7.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 345990168
+
+Time Taken for pass 24 = 6.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 351505283
+
+Time Taken for pass 25 = 7.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 336565656
+
+Time Taken for pass 26 = 7.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 350576775
+
+Time Taken for pass 27 = 6.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 343628893
+
+Time Taken for pass 28 = 7.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 342886492
+
+Time Taken for pass 29 = 6.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 348578664
+
+Time Taken for pass 30 = 6.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 342323316
+
+Time Taken for pass 31 = 7.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 362142685
+
+Time Taken for pass 32 = 6.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 342602047
+
+Time Taken for pass 33 = 7.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 344516297
+
+Time Taken for pass 34 = 7.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 346961897
+
+Time Taken for pass 35 = 6.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 348786840
+
+Time Taken for pass 36 = 7.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 338161395
+
+Time Taken for pass 37 = 6.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 339692906
+
+Time Taken for pass 38 = 7.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 345703696
+
+Time Taken for pass 39 = 7.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 344357281
+
+Time Taken for pass 40 = 6.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 337699269
+
+Time Taken for pass 41 = 7.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 335048963
+
+Time Taken for pass 42 = 7.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 329053458
+
+Time Taken for pass 43 = 6.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 339251500
+
+Time Taken for pass 44 = 7.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 334075312
+
+Time Taken for pass 45 = 6.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 330624801
+
+Time Taken for pass 46 = 7.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 341734910
+
+Time Taken for pass 47 = 7.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 335881685
+
+Time Taken for pass 48 = 6.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 348004010
+
+Time Taken for pass 49 = 6.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 341349708
+
+Time Taken for pass 50 = 7.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 3
+AVERAGE TIME TAKEN: 6.540000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 4
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 259404929
+
+Time Taken for pass 1 = 6.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 256889794
+
+Time Taken for pass 2 = 6.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 257860917
+
+Time Taken for pass 3 = 6.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 260369384
+
+Time Taken for pass 4 = 6.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 257015548
+
+Time Taken for pass 5 = 6.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 248228751
+
+Time Taken for pass 6 = 7.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 260121802
+
+Time Taken for pass 7 = 6.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 241704167
+
+Time Taken for pass 8 = 6.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 253786220
+
+Time Taken for pass 9 = 6.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 248675001
+
+Time Taken for pass 10 = 6.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 283521409
+
+Time Taken for pass 11 = 7.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 250071746
+
+Time Taken for pass 12 = 6.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 253488175
+
+Time Taken for pass 13 = 6.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 247585799
+
+Time Taken for pass 14 = 7.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 260698862
+
+Time Taken for pass 15 = 6.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 262527305
+
+Time Taken for pass 16 = 6.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 255516717
+
+Time Taken for pass 17 = 6.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 261208839
+
+Time Taken for pass 18 = 6.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 259662775
+
+Time Taken for pass 19 = 6.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 276398619
+
+Time Taken for pass 20 = 7.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 258647094
+
+Time Taken for pass 21 = 6.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 235403256
+
+Time Taken for pass 22 = 6.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 249276125
+
+Time Taken for pass 23 = 7.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 243099825
+
+Time Taken for pass 24 = 6.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 252479503
+
+Time Taken for pass 25 = 7.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 257713684
+
+Time Taken for pass 26 = 6.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 259330702
+
+Time Taken for pass 27 = 6.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 267419659
+
+Time Taken for pass 28 = 7.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 270999012
+
+Time Taken for pass 29 = 6.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 276924977
+
+Time Taken for pass 30 = 7.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 251141939
+
+Time Taken for pass 31 = 6.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 253966640
+
+Time Taken for pass 32 = 6.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 268789572
+
+Time Taken for pass 33 = 7.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 261170109
+
+Time Taken for pass 34 = 6.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 260552007
+
+Time Taken for pass 35 = 6.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 256405641
+
+Time Taken for pass 36 = 6.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 263246554
+
+Time Taken for pass 37 = 6.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 252996820
+
+Time Taken for pass 38 = 7.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 253449111
+
+Time Taken for pass 39 = 6.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 255092245
+
+Time Taken for pass 40 = 6.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 260674589
+
+Time Taken for pass 41 = 7.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 264622908
+
+Time Taken for pass 42 = 6.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 278073985
+
+Time Taken for pass 43 = 6.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 263023828
+
+Time Taken for pass 44 = 6.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 262574104
+
+Time Taken for pass 45 = 6.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 256851759
+
+Time Taken for pass 46 = 6.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 252595609
+
+Time Taken for pass 47 = 7.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 260112214
+
+Time Taken for pass 48 = 6.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 265410674
+
+Time Taken for pass 49 = 6.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 248207996
+
+Time Taken for pass 50 = 7.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 4
+AVERAGE TIME TAKEN: 6.260000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 5
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 202233493
+
+Time Taken for pass 1 = 6.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 199010984
+
+Time Taken for pass 2 = 6.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 207234794
+
+Time Taken for pass 3 = 6.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 212333708
+
+Time Taken for pass 4 = 6.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 208392370
+
+Time Taken for pass 5 = 6.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 212188481
+
+Time Taken for pass 6 = 6.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 212806337
+
+Time Taken for pass 7 = 5.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 210556182
+
+Time Taken for pass 8 = 6.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 228890955
+
+Time Taken for pass 9 = 6.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 212764556
+
+Time Taken for pass 10 = 6.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 212669966
+
+Time Taken for pass 11 = 6.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 212977222
+
+Time Taken for pass 12 = 6.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 229165227
+
+Time Taken for pass 13 = 6.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 211216566
+
+Time Taken for pass 14 = 6.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 220001162
+
+Time Taken for pass 15 = 6.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 206493981
+
+Time Taken for pass 16 = 6.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 212932911
+
+Time Taken for pass 17 = 6.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 209844788
+
+Time Taken for pass 18 = 5.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 217682898
+
+Time Taken for pass 19 = 6.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 210479120
+
+Time Taken for pass 20 = 6.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 202243252
+
+Time Taken for pass 21 = 6.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 207365498
+
+Time Taken for pass 22 = 6.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 211347618
+
+Time Taken for pass 23 = 6.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 208494529
+
+Time Taken for pass 24 = 6.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 226101825
+
+Time Taken for pass 25 = 6.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 213753472
+
+Time Taken for pass 26 = 6.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 217285632
+
+Time Taken for pass 27 = 6.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 208256540
+
+Time Taken for pass 28 = 6.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 212357370
+
+Time Taken for pass 29 = 6.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 235799333
+
+Time Taken for pass 30 = 6.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 223020604
+
+Time Taken for pass 31 = 6.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 212947306
+
+Time Taken for pass 32 = 5.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 215882417
+
+Time Taken for pass 33 = 6.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 217285771
+
+Time Taken for pass 34 = 6.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 214312076
+
+Time Taken for pass 35 = 6.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 209349160
+
+Time Taken for pass 36 = 6.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 217657453
+
+Time Taken for pass 37 = 6.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 202355303
+
+Time Taken for pass 38 = 6.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 214355427
+
+Time Taken for pass 39 = 6.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 216162722
+
+Time Taken for pass 40 = 6.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 214388220
+
+Time Taken for pass 41 = 6.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 215967931
+
+Time Taken for pass 42 = 6.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 212734107
+
+Time Taken for pass 43 = 6.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 211195961
+
+Time Taken for pass 44 = 6.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 199674178
+
+Time Taken for pass 45 = 6.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 211451791
+
+Time Taken for pass 46 = 6.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 224707812
+
+Time Taken for pass 47 = 6.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 237822008
+
+Time Taken for pass 48 = 6.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 212732183
+
+Time Taken for pass 49 = 5.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 215839796
+
+Time Taken for pass 50 = 6.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 5
+AVERAGE TIME TAKEN: 5.920000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 6
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 182496469
+
+Time Taken for pass 1 = 6.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 172559854
+
+Time Taken for pass 2 = 6.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 164147439
+
+Time Taken for pass 3 = 6.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 167587379
+
+Time Taken for pass 4 = 5.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 156467380
+
+Time Taken for pass 5 = 6.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 179327486
+
+Time Taken for pass 6 = 6.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 176275473
+
+Time Taken for pass 7 = 5.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 163153595
+
+Time Taken for pass 8 = 6.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 185185005
+
+Time Taken for pass 9 = 6.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 180881085
+
+Time Taken for pass 10 = 6.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 167639041
+
+Time Taken for pass 11 = 5.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 177419908
+
+Time Taken for pass 12 = 6.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 169322321
+
+Time Taken for pass 13 = 6.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 173191277
+
+Time Taken for pass 14 = 6.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 184828847
+
+Time Taken for pass 15 = 5.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 188718667
+
+Time Taken for pass 16 = 6.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 184098805
+
+Time Taken for pass 17 = 5.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 178619470
+
+Time Taken for pass 18 = 6.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 185047793
+
+Time Taken for pass 19 = 5.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 201156670
+
+Time Taken for pass 20 = 6.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 202483776
+
+Time Taken for pass 21 = 6.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 201142979
+
+Time Taken for pass 22 = 6.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 203798739
+
+Time Taken for pass 23 = 6.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 200671015
+
+Time Taken for pass 24 = 6.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 189869438
+
+Time Taken for pass 25 = 5.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 185327333
+
+Time Taken for pass 26 = 6.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 197043076
+
+Time Taken for pass 27 = 6.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 182361360
+
+Time Taken for pass 28 = 5.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 176895894
+
+Time Taken for pass 29 = 6.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 193804888
+
+Time Taken for pass 30 = 6.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 190724368
+
+Time Taken for pass 31 = 5.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 204070320
+
+Time Taken for pass 32 = 6.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 190538644
+
+Time Taken for pass 33 = 6.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 213983039
+
+Time Taken for pass 34 = 5.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 196509733
+
+Time Taken for pass 35 = 6.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 196687512
+
+Time Taken for pass 36 = 5.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 192952510
+
+Time Taken for pass 37 = 6.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 213632763
+
+Time Taken for pass 38 = 6.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 193684239
+
+Time Taken for pass 39 = 5.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 215718252
+
+Time Taken for pass 40 = 6.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 227719743
+
+Time Taken for pass 41 = 6.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 192433668
+
+Time Taken for pass 42 = 5.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 200868215
+
+Time Taken for pass 43 = 6.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 188186905
+
+Time Taken for pass 44 = 6.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 195337080
+
+Time Taken for pass 45 = 5.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 183886589
+
+Time Taken for pass 46 = 5.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 184870714
+
+Time Taken for pass 47 = 6.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 218420833
+
+Time Taken for pass 48 = 5.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 187378998
+
+Time Taken for pass 49 = 6.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 209088797
+
+Time Taken for pass 50 = 5.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 6
+AVERAGE TIME TAKEN: 5.660000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 7
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 156859699
+
+Time Taken for pass 1 = 6.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 158908323
+
+Time Taken for pass 2 = 5.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 176619580
+
+Time Taken for pass 3 = 6.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 158839170
+
+Time Taken for pass 4 = 5.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 161352323
+
+Time Taken for pass 5 = 5.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 160427820
+
+Time Taken for pass 6 = 6.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 165926924
+
+Time Taken for pass 7 = 5.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 157395004
+
+Time Taken for pass 8 = 5.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 153948794
+
+Time Taken for pass 9 = 6.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 151808307
+
+Time Taken for pass 10 = 5.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 158350422
+
+Time Taken for pass 11 = 5.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 158664782
+
+Time Taken for pass 12 = 6.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 178466800
+
+Time Taken for pass 13 = 5.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 169953511
+
+Time Taken for pass 14 = 6.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 155393521
+
+Time Taken for pass 15 = 5.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 156957131
+
+Time Taken for pass 16 = 5.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 154333853
+
+Time Taken for pass 17 = 5.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 155117816
+
+Time Taken for pass 18 = 6.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 160821160
+
+Time Taken for pass 19 = 5.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 149454739
+
+Time Taken for pass 20 = 6.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 160530273
+
+Time Taken for pass 21 = 5.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 148813640
+
+Time Taken for pass 22 = 5.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 164200894
+
+Time Taken for pass 23 = 6.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 178194653
+
+Time Taken for pass 24 = 5.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 164329293
+
+Time Taken for pass 25 = 6.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 164119677
+
+Time Taken for pass 26 = 5.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 176153092
+
+Time Taken for pass 27 = 6.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 157073090
+
+Time Taken for pass 28 = 5.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 167693962
+
+Time Taken for pass 29 = 5.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 166070469
+
+Time Taken for pass 30 = 6.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 159743921
+
+Time Taken for pass 31 = 5.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 154752185
+
+Time Taken for pass 32 = 5.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 165897759
+
+Time Taken for pass 33 = 6.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 150342962
+
+Time Taken for pass 34 = 5.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 160707529
+
+Time Taken for pass 35 = 5.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 160212642
+
+Time Taken for pass 36 = 6.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 166821223
+
+Time Taken for pass 37 = 5.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 163320483
+
+Time Taken for pass 38 = 5.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 159036297
+
+Time Taken for pass 39 = 6.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 167132220
+
+Time Taken for pass 40 = 5.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 155768348
+
+Time Taken for pass 41 = 5.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 160784650
+
+Time Taken for pass 42 = 6.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 174174883
+
+Time Taken for pass 43 = 5.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 168169802
+
+Time Taken for pass 44 = 6.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 174991693
+
+Time Taken for pass 45 = 6.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 168368882
+
+Time Taken for pass 46 = 5.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 160172248
+
+Time Taken for pass 47 = 5.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 151560808
+
+Time Taken for pass 48 = 6.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 178021754
+
+Time Taken for pass 49 = 5.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 152889499
+
+Time Taken for pass 50 = 5.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 7
+AVERAGE TIME TAKEN: 5.380000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 8
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 154077663
+
+Time Taken for pass 1 = 6.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 137470359
+
+Time Taken for pass 2 = 5.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 141072383
+
+Time Taken for pass 3 = 5.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 143348648
+
+Time Taken for pass 4 = 6.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 154711353
+
+Time Taken for pass 5 = 5.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 139998787
+
+Time Taken for pass 6 = 5.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 131385853
+
+Time Taken for pass 7 = 4.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 139994845
+
+Time Taken for pass 8 = 5.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 131575627
+
+Time Taken for pass 9 = 5.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 143161770
+
+Time Taken for pass 10 = 5.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 139659119
+
+Time Taken for pass 11 = 5.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 141582544
+
+Time Taken for pass 12 = 5.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 141648142
+
+Time Taken for pass 13 = 5.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 132267014
+
+Time Taken for pass 14 = 5.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 132593409
+
+Time Taken for pass 15 = 4.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 132586126
+
+Time Taken for pass 16 = 5.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 140442654
+
+Time Taken for pass 17 = 5.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 134167223
+
+Time Taken for pass 18 = 5.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 142893666
+
+Time Taken for pass 19 = 5.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 131343414
+
+Time Taken for pass 20 = 4.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 141992753
+
+Time Taken for pass 21 = 5.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 139717741
+
+Time Taken for pass 22 = 5.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 168713496
+
+Time Taken for pass 23 = 6.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 132164116
+
+Time Taken for pass 24 = 4.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 134500144
+
+Time Taken for pass 25 = 5.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 140190913
+
+Time Taken for pass 26 = 5.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 141263348
+
+Time Taken for pass 27 = 5.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 140856336
+
+Time Taken for pass 28 = 5.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 139609300
+
+Time Taken for pass 29 = 5.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 131903036
+
+Time Taken for pass 30 = 5.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 140364603
+
+Time Taken for pass 31 = 5.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 140324941
+
+Time Taken for pass 32 = 5.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 140123255
+
+Time Taken for pass 33 = 5.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 142953760
+
+Time Taken for pass 34 = 5.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 131665429
+
+Time Taken for pass 35 = 4.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 144885847
+
+Time Taken for pass 36 = 6.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 138683699
+
+Time Taken for pass 37 = 5.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 131192943
+
+Time Taken for pass 38 = 4.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 140618597
+
+Time Taken for pass 39 = 5.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 141104973
+
+Time Taken for pass 40 = 5.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 127978699
+
+Time Taken for pass 41 = 5.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 138227535
+
+Time Taken for pass 42 = 5.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 133564546
+
+Time Taken for pass 43 = 5.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 133253238
+
+Time Taken for pass 44 = 5.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 131669333
+
+Time Taken for pass 45 = 5.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 128334362
+
+Time Taken for pass 46 = 5.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 150558559
+
+Time Taken for pass 47 = 5.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 147939524
+
+Time Taken for pass 48 = 5.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 160975675
+
+Time Taken for pass 49 = 5.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 138770604
+
+Time Taken for pass 50 = 5.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 8
+AVERAGE TIME TAKEN: 4.960000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 9
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 133391538
+
+Time Taken for pass 1 = 5.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 141965083
+
+Time Taken for pass 2 = 5.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 138262280
+
+Time Taken for pass 3 = 5.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 128829928
+
+Time Taken for pass 4 = 5.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 132859153
+
+Time Taken for pass 5 = 5.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 155988441
+
+Time Taken for pass 6 = 5.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 137644857
+
+Time Taken for pass 7 = 5.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 136385614
+
+Time Taken for pass 8 = 5.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 140268118
+
+Time Taken for pass 9 = 5.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 139845044
+
+Time Taken for pass 10 = 4.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 140118248
+
+Time Taken for pass 11 = 5.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 135758082
+
+Time Taken for pass 12 = 5.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 132603994
+
+Time Taken for pass 13 = 5.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 139963268
+
+Time Taken for pass 14 = 5.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 132521150
+
+Time Taken for pass 15 = 5.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 140879782
+
+Time Taken for pass 16 = 5.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 135539060
+
+Time Taken for pass 17 = 5.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 139325437
+
+Time Taken for pass 18 = 5.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 139594111
+
+Time Taken for pass 19 = 5.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 136201652
+
+Time Taken for pass 20 = 5.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 132968264
+
+Time Taken for pass 21 = 5.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 129379227
+
+Time Taken for pass 22 = 5.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 138221739
+
+Time Taken for pass 23 = 5.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 142918104
+
+Time Taken for pass 24 = 5.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 136759272
+
+Time Taken for pass 25 = 5.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 132564318
+
+Time Taken for pass 26 = 4.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 143886712
+
+Time Taken for pass 27 = 6.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 148553439
+
+Time Taken for pass 28 = 5.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 134718278
+
+Time Taken for pass 29 = 5.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 132918914
+
+Time Taken for pass 30 = 4.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 138563802
+
+Time Taken for pass 31 = 5.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 134242927
+
+Time Taken for pass 32 = 5.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 133631909
+
+Time Taken for pass 33 = 5.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 143556012
+
+Time Taken for pass 34 = 5.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 143062300
+
+Time Taken for pass 35 = 5.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 134319601
+
+Time Taken for pass 36 = 5.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 135918640
+
+Time Taken for pass 37 = 5.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 137361281
+
+Time Taken for pass 38 = 5.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 138580902
+
+Time Taken for pass 39 = 5.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 134414975
+
+Time Taken for pass 40 = 5.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 131109324
+
+Time Taken for pass 41 = 5.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 134095818
+
+Time Taken for pass 42 = 5.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 140467389
+
+Time Taken for pass 43 = 4.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 134093175
+
+Time Taken for pass 44 = 5.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 135274121
+
+Time Taken for pass 45 = 5.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 140930280
+
+Time Taken for pass 46 = 5.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 122813052
+
+Time Taken for pass 47 = 5.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 135140318
+
+Time Taken for pass 48 = 5.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 133111027
+
+Time Taken for pass 49 = 4.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 145239829
+
+Time Taken for pass 50 = 5.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 9
+AVERAGE TIME TAKEN: 4.920000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 10
+
+STARTING PASS 1
+
+2014041_mtp_c1.c:
+Counter Value after count: 134280419
+
+Time Taken for pass 1 = 5.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1.c:
+Counter Value after count: 129578220
+
+Time Taken for pass 2 = 5.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1.c:
+Counter Value after count: 137814911
+
+Time Taken for pass 3 = 5.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1.c:
+Counter Value after count: 136841444
+
+Time Taken for pass 4 = 5.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1.c:
+Counter Value after count: 143261028
+
+Time Taken for pass 5 = 5.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1.c:
+Counter Value after count: 137104652
+
+Time Taken for pass 6 = 5.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1.c:
+Counter Value after count: 127725537
+
+Time Taken for pass 7 = 5.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1.c:
+Counter Value after count: 139363587
+
+Time Taken for pass 8 = 5.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1.c:
+Counter Value after count: 135571433
+
+Time Taken for pass 9 = 5.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1.c:
+Counter Value after count: 143336821
+
+Time Taken for pass 10 = 5.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1.c:
+Counter Value after count: 138361784
+
+Time Taken for pass 11 = 5.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1.c:
+Counter Value after count: 140747403
+
+Time Taken for pass 12 = 4.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1.c:
+Counter Value after count: 130706292
+
+Time Taken for pass 13 = 5.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1.c:
+Counter Value after count: 142583150
+
+Time Taken for pass 14 = 5.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1.c:
+Counter Value after count: 141355721
+
+Time Taken for pass 15 = 6.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1.c:
+Counter Value after count: 125827184
+
+Time Taken for pass 16 = 5.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1.c:
+Counter Value after count: 137666510
+
+Time Taken for pass 17 = 5.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1.c:
+Counter Value after count: 128255856
+
+Time Taken for pass 18 = 5.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1.c:
+Counter Value after count: 133710296
+
+Time Taken for pass 19 = 4.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1.c:
+Counter Value after count: 124491586
+
+Time Taken for pass 20 = 5.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1.c:
+Counter Value after count: 138105987
+
+Time Taken for pass 21 = 5.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1.c:
+Counter Value after count: 135591712
+
+Time Taken for pass 22 = 5.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1.c:
+Counter Value after count: 134215981
+
+Time Taken for pass 23 = 5.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1.c:
+Counter Value after count: 138901451
+
+Time Taken for pass 24 = 5.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1.c:
+Counter Value after count: 135294978
+
+Time Taken for pass 25 = 5.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1.c:
+Counter Value after count: 136142514
+
+Time Taken for pass 26 = 5.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1.c:
+Counter Value after count: 132996976
+
+Time Taken for pass 27 = 4.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1.c:
+Counter Value after count: 132111928
+
+Time Taken for pass 28 = 5.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1.c:
+Counter Value after count: 132135935
+
+Time Taken for pass 29 = 5.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1.c:
+Counter Value after count: 136019222
+
+Time Taken for pass 30 = 5.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1.c:
+Counter Value after count: 128412871
+
+Time Taken for pass 31 = 5.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1.c:
+Counter Value after count: 131234112
+
+Time Taken for pass 32 = 5.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1.c:
+Counter Value after count: 130960824
+
+Time Taken for pass 33 = 4.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1.c:
+Counter Value after count: 133988351
+
+Time Taken for pass 34 = 6.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1.c:
+Counter Value after count: 126471997
+
+Time Taken for pass 35 = 5.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1.c:
+Counter Value after count: 134442011
+
+Time Taken for pass 36 = 5.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1.c:
+Counter Value after count: 133625304
+
+Time Taken for pass 37 = 4.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1.c:
+Counter Value after count: 141672481
+
+Time Taken for pass 38 = 5.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1.c:
+Counter Value after count: 130304731
+
+Time Taken for pass 39 = 5.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1.c:
+Counter Value after count: 136729221
+
+Time Taken for pass 40 = 5.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1.c:
+Counter Value after count: 136792315
+
+Time Taken for pass 41 = 5.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1.c:
+Counter Value after count: 137270485
+
+Time Taken for pass 42 = 5.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1.c:
+Counter Value after count: 130739457
+
+Time Taken for pass 43 = 5.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1.c:
+Counter Value after count: 126379555
+
+Time Taken for pass 44 = 5.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1.c:
+Counter Value after count: 133435474
+
+Time Taken for pass 45 = 4.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1.c:
+Counter Value after count: 144530133
+
+Time Taken for pass 46 = 6.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1.c:
+Counter Value after count: 144329757
+
+Time Taken for pass 47 = 5.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1.c:
+Counter Value after count: 134701303
+
+Time Taken for pass 48 = 5.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1.c:
+Counter Value after count: 133897793
+
+Time Taken for pass 49 = 4.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1.c:
+Counter Value after count: 131267489
+
+Time Taken for pass 50 = 5.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 10
+AVERAGE TIME TAKEN: 4.920000 seconds
+

@@ -1,0 +1,363 @@
+
+STARTING EXECUTION:
+PROGRAM: Single Thread __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 1
+
+STARTING PASS 1
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 2.000000 seconds
+
+STARTING PASS 2
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 3.000000 seconds
+
+STARTING PASS 3
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 2.000000 seconds
+
+STARTING PASS 4
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 2.000000 seconds
+
+STARTING PASS 5
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 3.000000 seconds
+
+STARTING PASS 6
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 2.000000 seconds
+
+STARTING PASS 7
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 3.000000 seconds
+
+STARTING PASS 8
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 2.000000 seconds
+
+STARTING PASS 9
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 2.000000 seconds
+
+STARTING PASS 10
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 3.000000 seconds
+
+STARTING PASS 11
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 2.000000 seconds
+
+STARTING PASS 12
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 2.000000 seconds
+
+STARTING PASS 13
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 3.000000 seconds
+
+STARTING PASS 14
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 2.000000 seconds
+
+STARTING PASS 15
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 3.000000 seconds
+
+STARTING PASS 16
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 2.000000 seconds
+
+STARTING PASS 17
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 3.000000 seconds
+
+STARTING PASS 18
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 2.000000 seconds
+
+STARTING PASS 19
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 2.000000 seconds
+
+STARTING PASS 20
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 3.000000 seconds
+
+STARTING PASS 21
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 2.000000 seconds
+
+STARTING PASS 22
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 2.000000 seconds
+
+STARTING PASS 23
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 3.000000 seconds
+
+STARTING PASS 24
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 2.000000 seconds
+
+STARTING PASS 25
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 3.000000 seconds
+
+STARTING PASS 26
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 2.000000 seconds
+
+STARTING PASS 27
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 2.000000 seconds
+
+STARTING PASS 28
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 3.000000 seconds
+
+STARTING PASS 29
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 2.000000 seconds
+
+STARTING PASS 30
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 3.000000 seconds
+
+STARTING PASS 31
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 2.000000 seconds
+
+STARTING PASS 32
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 2.000000 seconds
+
+STARTING PASS 33
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 3.000000 seconds
+
+STARTING PASS 34
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 2.000000 seconds
+
+STARTING PASS 35
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 2.000000 seconds
+
+STARTING PASS 36
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 3.000000 seconds
+
+STARTING PASS 37
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 2.000000 seconds
+
+STARTING PASS 38
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 3.000000 seconds
+
+STARTING PASS 39
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 2.000000 seconds
+
+STARTING PASS 40
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 3.000000 seconds
+
+STARTING PASS 41
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 2.000000 seconds
+
+STARTING PASS 42
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 2.000000 seconds
+
+STARTING PASS 43
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 3.000000 seconds
+
+STARTING PASS 44
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 2.000000 seconds
+
+STARTING PASS 45
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 2.000000 seconds
+
+STARTING PASS 46
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 3.000000 seconds
+
+STARTING PASS 47
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 2.000000 seconds
+
+STARTING PASS 48
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 3.000000 seconds
+
+STARTING PASS 49
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 2.000000 seconds
+
+STARTING PASS 50
+
+2014041_stp.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 2.000000 seconds
+
+
+Statistics:
+PROGRAM: Single Thread __ Counter 1
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 1
+AVERAGE TIME TAKEN: 2.380000 seconds
+

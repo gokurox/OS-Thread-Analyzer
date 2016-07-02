@@ -1,0 +1,3630 @@
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 1
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 20.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 19.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 19.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 19.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 19.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 19.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 19.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 20.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 19.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 19.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 19.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 19.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 20.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 19.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 19.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 19.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 20.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 20.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 20.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 20.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 20.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 20.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 20.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 19.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 21.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 20.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 19.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 20.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 20.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 19.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 20.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 19.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 19.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 19.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 19.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 19.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 19.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 19.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 20.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 19.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 19.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 19.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 19.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 19.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 19.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 20.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 19.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 19.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 19.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 19.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 1
+AVERAGE TIME TAKEN: 19.360000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 2
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 86.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 115.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 98.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 89.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 108.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 101.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 101.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 110.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 107.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 113.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 102.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 133.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 86.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 93.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 95.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 112.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 114.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 80.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 103.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 100.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 144.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 85.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 83.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 111.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 107.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 88.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 89.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 90.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 84.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 130.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 93.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 109.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 106.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 116.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 95.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 102.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 95.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 128.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 85.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 97.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 123.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 92.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 115.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 87.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 86.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 85.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 92.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 92.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 113.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 89.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 2
+AVERAGE TIME TAKEN: 101.140000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 3
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 1 = 111.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 2 = 109.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 3 = 111.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 4 = 105.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 5 = 111.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 6 = 112.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 7 = 115.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 8 = 101.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 9 = 114.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 10 = 107.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 11 = 103.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 12 = 112.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 13 = 107.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 14 = 105.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 15 = 105.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 16 = 110.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 17 = 111.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 18 = 106.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 19 = 114.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 20 = 108.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 21 = 106.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 22 = 107.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 23 = 108.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 24 = 107.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 25 = 108.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 26 = 107.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 27 = 108.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 28 = 110.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 29 = 111.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 30 = 111.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 31 = 107.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 32 = 107.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 33 = 109.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 34 = 97.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 35 = 99.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 36 = 111.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 37 = 104.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 38 = 113.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 39 = 107.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 40 = 113.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 41 = 99.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 42 = 106.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 43 = 105.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 44 = 105.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 45 = 108.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 46 = 110.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 47 = 109.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 48 = 112.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 49 = 110.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 50 = 96.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 3
+AVERAGE TIME TAKEN: 107.740000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 4
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 140.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 129.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 133.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 135.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 126.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 133.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 127.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 134.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 127.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 123.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 130.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 141.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 122.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 132.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 135.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 130.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 122.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 126.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 123.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 132.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 127.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 130.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 136.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 123.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 128.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 134.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 125.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 125.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 136.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 130.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 133.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 139.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 139.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 132.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 130.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 128.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 134.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 134.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 129.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 134.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 128.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 125.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 127.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 124.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 138.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 123.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 126.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 138.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 117.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 126.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 4
+AVERAGE TIME TAKEN: 129.960000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 5
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 133.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 136.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 121.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 132.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 129.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 109.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 142.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 131.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 124.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 142.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 113.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 115.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 145.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 127.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 126.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 133.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 96.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 123.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 119.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 135.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 142.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 120.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 100.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 126.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 128.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 96.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 124.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 106.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 147.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 137.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 141.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 127.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 131.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 131.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 132.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 132.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 118.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 136.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 134.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 114.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 127.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 113.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 123.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 138.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 136.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 115.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 132.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 112.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 117.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 141.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 5
+AVERAGE TIME TAKEN: 126.140000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 6
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 1 = 103.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 2 = 140.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 3 = 68.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 4 = 86.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 5 = 134.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 6 = 135.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 7 = 85.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 8 = 103.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 9 = 133.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 10 = 107.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 11 = 109.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 12 = 104.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 13 = 157.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 14 = 138.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 15 = 150.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 16 = 94.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 17 = 144.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 18 = 136.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 19 = 144.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 20 = 84.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 21 = 148.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 22 = 114.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 23 = 115.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 24 = 95.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 25 = 124.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 26 = 147.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 27 = 92.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 28 = 128.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 29 = 86.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 30 = 123.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 31 = 88.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 32 = 141.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 33 = 138.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 34 = 95.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 35 = 95.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 36 = 78.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 37 = 120.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 38 = 119.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 39 = 136.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 40 = 117.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 41 = 107.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 42 = 73.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 43 = 102.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 44 = 101.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 45 = 94.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 46 = 87.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 47 = 87.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 48 = 89.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 49 = 96.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999996
+
+Time Taken for pass 50 = 72.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 6
+AVERAGE TIME TAKEN: 111.220000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 7
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 1 = 67.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 2 = 97.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 3 = 98.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 4 = 87.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 5 = 105.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 6 = 79.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 7 = 79.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 8 = 131.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 9 = 88.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 10 = 81.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 11 = 73.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 12 = 69.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 13 = 160.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 14 = 118.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 15 = 104.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 16 = 82.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 17 = 75.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 18 = 103.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 19 = 67.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 20 = 153.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 21 = 88.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 22 = 123.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 23 = 74.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 24 = 91.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 25 = 134.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 26 = 66.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 27 = 76.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 28 = 66.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 29 = 65.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 30 = 76.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 31 = 72.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 32 = 132.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 33 = 109.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 34 = 86.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 35 = 132.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 36 = 72.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 37 = 79.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 38 = 104.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 39 = 164.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 40 = 70.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 41 = 98.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 42 = 73.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 43 = 66.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 44 = 98.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 45 = 72.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 46 = 66.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 47 = 88.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 48 = 78.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 49 = 66.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999994
+
+Time Taken for pass 50 = 91.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 7
+AVERAGE TIME TAKEN: 91.820000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 8
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 200.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 113.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 72.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 78.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 79.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 72.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 80.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 101.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 182.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 72.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 84.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 123.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 165.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 66.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 197.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 78.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 104.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 65.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 72.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 66.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 149.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 65.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 136.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 66.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 72.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 65.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 73.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 71.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 122.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 72.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 78.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 73.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 73.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 66.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 167.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 66.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 73.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 66.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 69.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 104.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 113.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 81.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 158.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 70.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 137.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 67.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 72.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 70.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 107.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 67.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 8
+AVERAGE TIME TAKEN: 94.740000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 9
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 1 = 72.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 2 = 78.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 3 = 68.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 4 = 78.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 5 = 66.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 6 = 66.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 7 = 66.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 8 = 71.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 9 = 83.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 10 = 66.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 11 = 66.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 12 = 65.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 13 = 66.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 14 = 66.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 15 = 67.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 16 = 65.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 17 = 67.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 18 = 87.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 19 = 88.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 20 = 79.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 21 = 72.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 22 = 66.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 23 = 85.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 24 = 69.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 25 = 85.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 26 = 68.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 27 = 75.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 28 = 74.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 29 = 69.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 30 = 73.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 31 = 66.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 32 = 66.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 33 = 85.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 34 = 84.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 35 = 74.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 36 = 68.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 37 = 69.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 38 = 68.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 39 = 81.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 40 = 66.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 41 = 68.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 42 = 86.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 43 = 67.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 44 = 70.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 45 = 74.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 46 = 68.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 47 = 73.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 48 = 80.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 49 = 68.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 999999999
+
+Time Taken for pass 50 = 80.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 9
+AVERAGE TIME TAKEN: 72.540000 seconds
+
+
+STARTING EXECUTION:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 10
+
+STARTING PASS 1
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 1 = 83.000000 seconds
+
+STARTING PASS 2
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 2 = 67.000000 seconds
+
+STARTING PASS 3
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 3 = 69.000000 seconds
+
+STARTING PASS 4
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 4 = 67.000000 seconds
+
+STARTING PASS 5
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 5 = 80.000000 seconds
+
+STARTING PASS 6
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 6 = 67.000000 seconds
+
+STARTING PASS 7
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 7 = 74.000000 seconds
+
+STARTING PASS 8
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 8 = 84.000000 seconds
+
+STARTING PASS 9
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 9 = 85.000000 seconds
+
+STARTING PASS 10
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 10 = 71.000000 seconds
+
+STARTING PASS 11
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 11 = 82.000000 seconds
+
+STARTING PASS 12
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 12 = 66.000000 seconds
+
+STARTING PASS 13
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 13 = 65.000000 seconds
+
+STARTING PASS 14
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 14 = 66.000000 seconds
+
+STARTING PASS 15
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 15 = 71.000000 seconds
+
+STARTING PASS 16
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 16 = 66.000000 seconds
+
+STARTING PASS 17
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 17 = 65.000000 seconds
+
+STARTING PASS 18
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 18 = 83.000000 seconds
+
+STARTING PASS 19
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 19 = 72.000000 seconds
+
+STARTING PASS 20
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 20 = 66.000000 seconds
+
+STARTING PASS 21
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 21 = 71.000000 seconds
+
+STARTING PASS 22
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 22 = 66.000000 seconds
+
+STARTING PASS 23
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 23 = 79.000000 seconds
+
+STARTING PASS 24
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 24 = 78.000000 seconds
+
+STARTING PASS 25
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 25 = 72.000000 seconds
+
+STARTING PASS 26
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 26 = 73.000000 seconds
+
+STARTING PASS 27
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 27 = 67.000000 seconds
+
+STARTING PASS 28
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 28 = 67.000000 seconds
+
+STARTING PASS 29
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 29 = 70.000000 seconds
+
+STARTING PASS 30
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 30 = 67.000000 seconds
+
+STARTING PASS 31
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 31 = 75.000000 seconds
+
+STARTING PASS 32
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 32 = 79.000000 seconds
+
+STARTING PASS 33
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 33 = 68.000000 seconds
+
+STARTING PASS 34
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 34 = 68.000000 seconds
+
+STARTING PASS 35
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 35 = 66.000000 seconds
+
+STARTING PASS 36
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 36 = 73.000000 seconds
+
+STARTING PASS 37
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 37 = 79.000000 seconds
+
+STARTING PASS 38
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 38 = 84.000000 seconds
+
+STARTING PASS 39
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 39 = 68.000000 seconds
+
+STARTING PASS 40
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 40 = 72.000000 seconds
+
+STARTING PASS 41
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 41 = 68.000000 seconds
+
+STARTING PASS 42
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 42 = 72.000000 seconds
+
+STARTING PASS 43
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 43 = 72.000000 seconds
+
+STARTING PASS 44
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 44 = 86.000000 seconds
+
+STARTING PASS 45
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 45 = 84.000000 seconds
+
+STARTING PASS 46
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 46 = 78.000000 seconds
+
+STARTING PASS 47
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 47 = 68.000000 seconds
+
+STARTING PASS 48
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 48 = 73.000000 seconds
+
+STARTING PASS 49
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 49 = 67.000000 seconds
+
+STARTING PASS 50
+
+2014041_mtp_c1_sem.c:
+Counter Value after count: 1000000000
+
+Time Taken for pass 50 = 67.000000 seconds
+
+
+Statistics:
+PROGRAM: Multiple Threads __ Counter 1 __ Semaphores
+NUMBER OF REPEATS: 50
+NUMBER OF THREADS: 10
+AVERAGE TIME TAKEN: 72.520000 seconds
+
